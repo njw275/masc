@@ -210,8 +210,8 @@ li {
 	text-align: center;
 }
 
-.projectBox a{
-	bottom: 0px;
+.projectBox p{
+	/* bottom: 0px; */
 	text-decoration: none;
 }
 
