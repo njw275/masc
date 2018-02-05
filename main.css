@@ -55,14 +55,14 @@ nav {
 	top: 0px;
 	position: fixed;
 	width: 100%;
-    display: inline-block;
-    text-align: center;
-    padding: 0;
-    padding-top: 15px;
-    list-style: none;
-    background-color: white;
-    margin-left: 0px;
-    z-index: 100;
+  display: inline-block;
+  text-align: center;
+  padding: 0;
+  padding-top: 15px;
+  list-style: none;
+  background-color: white;
+  margin-left: 0px;
+  z-index: 100;
 
 }
 
@@ -172,7 +172,7 @@ li {
 .element2 {
 	width: 100%;
   height: 50%;
-  overflow: auto;
+  overflow: hidden; //auto
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
@@ -182,7 +182,7 @@ li {
 .element {
 	width: 50%;
   height: 50%;
-  overflow: auto;
+  overflow: hidden; //auto
   margin: auto;
   position: absolute;
   top: 0; left: 0; bottom: 0; right: 0;
