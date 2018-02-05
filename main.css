@@ -202,3 +202,9 @@ li {
 .unblur {
 	filter: blur(0px);
 }
+
+.projectBox {
+	width: 30%;
+	height: 30%;
+	background-color: lightblue;
+}
