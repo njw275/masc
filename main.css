@@ -203,6 +203,14 @@ li {
 	filter: blur(0px);
 }
 
+.name {
+	font-family: 'Exo 2', sans-serif;
+}
+
+.blurb {
+	font-family: 'Barlow', sans-serif;
+}
+
 .projectBox {
 	width: 20%;
 	height: 45%;
