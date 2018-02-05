@@ -207,4 +207,9 @@ li {
 	width: 15%;
 	height: 30%;
 	background-color: lightblue;
+	text-align: center;
+}
+
+.projects a{
+	bottom: 0px;
 }
