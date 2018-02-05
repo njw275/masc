@@ -201,3 +201,7 @@ li {
 .unblur {
 	filter: blur(0px);
 }
+
+*{
+	overflow-x: hidden;
+}
