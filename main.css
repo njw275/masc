@@ -204,9 +204,9 @@ li {
 }
 
 .projectBox {
-	width: 15%;
-	height: 30%;
-	background-color: lightblue;
+	width: 30%;
+	height: 45%;
+	/* background-color: lightblue; */
 	text-align: center;
 }
 
