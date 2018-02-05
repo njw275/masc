@@ -212,6 +212,7 @@ li {
 
 .projectBox a{
 	bottom: 0px;
+	text-decoration: none;
 }
 
 .projectBox img {
